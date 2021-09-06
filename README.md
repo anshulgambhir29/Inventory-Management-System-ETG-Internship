@@ -8,10 +8,10 @@ This repository is having all the codes used in AI-ML Skill Scholarship provided
 In this repository one can learn about JSON, file handling, NOSQL database ,how to use dictionaries ,type conversion.
 
 # Files used In the Repository
-products.json
-sale.json
-Adding_Items_To_Inventory.ipynb
-Purchasing_Items_From_Inventory.ipynb
+products.json,
+sale.json,
+Adding_Items_To_Inventory.ipynb,
+Purchasing_Items_From_Inventory.ipynb,
 
 # Features
 1) First of all you are having multiple(30) products in the inventory on which you have to perform the functionalities.
